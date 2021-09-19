@@ -8,6 +8,6 @@ Covid Tracker is a Java and SpringBoot based application providing real-time dat
 
 ## How to run the project
  - Clone this repo (git clone via HTTP or SSH)
- - Navigate to the cloned repo folder
- - To run the project, execute following command in terminal: mvnspring-boot:run
+ - Navigate to the cloned repo folder in terminal
+ - To run the project, execute following command in terminal: mvn spring-boot:run
  - Navigate to localhost:8080 in your browser to see the project running
