@@ -1,6 +1,6 @@
 # Covid-Tracker
 
-Covid Tracker is a Java and SpringBoot based application providing data of new Covid-19 cases on a daily basis around the world.
+Covid Tracker is a Java and SpringBoot based application providing data of new Covid-19 cases around the world. on a daily basis
 
 ### Prerequisites
  - Java 11
